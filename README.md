@@ -10,3 +10,10 @@ AI Integration	Google Gemini API (@google/generative-ai npm package)
 Environment Config	dotenv to store API keys safely
 HTTP Client (optional)	axios or fetch (for frontend to call backend API)
 THUNDERBOLT - to check the api.
+
+
+Required Packages (npm install these)
+bash
+Copy
+Edit
+npm install express @google/generative-ai dotenv cors
